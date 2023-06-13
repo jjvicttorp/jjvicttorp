@@ -1,8 +1,6 @@
-victor <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+victor <img src="https://media.tenor.com/-0dYNKD4jq8AAAAC/yes-yes-yes-thor.gif" width="100px">
 
-!.[thor].(https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fyes-yes-yes-thor-marvel-not-my-art-thor-ragnarok-gif-17404575&psig=AOvVaw2ZrZBWIbu2wb6dhwehD0As&ust=1686783400002000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCMj7pP2rwf8CFQAAAAAdAAAAABAE)
-
-Eu sou <strong>Seu Nome</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
+Eu sou <strong>Victor</strong>, <strong>Estou iniciando o curso de desenvolvimento</strong> 👨🏻‍💻 
 
 - 🚀 Atualmente estou aprendendo: <strong>Coloque as linguagens que você atualmente está aprendendo</strong> 
 - 💬 Pergunte-me sobre: <strong>Seus hobbies</strong>
